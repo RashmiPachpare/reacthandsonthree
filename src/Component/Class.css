@@ -1,0 +1,65 @@
+*{
+    font-family: sans-serif;
+}
+label{
+    font-size: 25px;
+}
+input[type="text"]{
+    width: 300px;
+    height: 50px;
+    margin-bottom: 40px;
+    border: 2px solid black;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+    padding-left: 20px;
+}
+.input-fields{
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+button{
+    width: 240px;
+    height: 60px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: aquamarine;
+    margin-left: 80px;
+    margin-bottom: 173px;
+    font-size: 25px;
+}
+.parent-2{
+    margin-left: 7px;
+    margin-top: 80px;
+    margin-bottom: 106px;
+    width: 99%;
+    border: 5px solid black;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+}
+.data-2{
+    width: 40%;
+    text-align: center;
+    background-color: pink;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: 30px 65px;
+}
+p{
+    font-size: large;
+    font-weight: 800;
+    margin: 30px;
+}
+ #submit{
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    background-color: orange;
+    border-radius: 10px black;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+ }
